@@ -6,6 +6,7 @@ import { Home } from "./views/home";
 import { Demo } from "./views/demo";
 import { Single } from "./views/single";
 import injectContext from "./store/appContext";
+import  "../styles/home.css";
 
 import Contact from "./views/contact";
 import { AddContact } from "./views/addContact";

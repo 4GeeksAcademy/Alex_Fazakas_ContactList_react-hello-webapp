@@ -1,0 +1,52 @@
+/* Contact.css */
+
+/* Estilo para el fondo oscuro */
+body {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  /* Estilo para el contenedor principal */
+  .p-4 {
+    padding: 4rem;
+  }
+  
+  /* Estilo para el título */
+  .Titular1 h1 {
+    color: #f50057; /* Color rosado */
+  }
+  
+  /* Estilo para los botones */
+  .btn {
+    background-color: #f50057; /* Color rosado */
+    border-color: #f50057; /* Color rosado */
+    color: #ffffff; /* Color blanco */
+  }
+  
+  .btn:hover {
+    background-color: #ff4081; /* Color rosado más claro */
+    border-color: #ff4081; /* Color rosado más claro */
+  }
+  
+  /* Estilo para los enlaces */
+  .link {
+    color: #ffffff; /* Color blanco */
+  }
+  
+  .link:hover {
+    color: #bb86fc; /* Color morado */
+  }
+  
+  /* Estilo para las tarjetas de contacto */
+  .contact-card {
+    background-color: #424242; /* Color gris oscuro */
+    color: #ffffff; /* Color blanco */
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .contact-card:hover {
+    background-color: #616161; /* Color gris más claro */
+  }
+  
